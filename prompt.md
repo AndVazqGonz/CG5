@@ -21,13 +21,14 @@ CSS
 
 # Prompt base
 
+# 1
 Quiero construir un documento digital sobre:
 
-**[TEMA]**
+**[CG5 y su trayectoria en la comunidad del internet.]**
 
 Necesito organizar información sobre:
 
-**[TIPO DE CONTENIDO O COLECCIÓN]**
+**[Su trayectoria como cantautor y en como las tendencias a traves de los años lo inspiraban a componer nuevas canciones con base a temas virales en la historia. ]**
 
 Antes de generar HTML, investiga y estructura la información.
 
@@ -40,11 +41,235 @@ posteriormente para generar una página web.
 
 Cada elemento debe incluir los siguientes campos:
 
-- [CAMPO 1]
-- [CAMPO 2]
-- [CAMPO 3]
-- [CAMPO 4]
-- [CAMPO 5]
+- * Año en el que hubo una tendencia viral en internet * - *Tendencia viral que destacaba en el momento 
+- *Breve descripción de dicha tendencia. 
+- *Canción creada por CG5 con base a esta tendencia. 
+- *Titulo, artistas colaboradores si es el caso, ademas de una breve descripción de su inspiración. 
+
+Todos los elementos deben mantener exactamente la misma estructura.
+
+## Reglas
+
+- Organiza la información de manera consistente.
+- No inventes datos.
+- Si un dato no está disponible, indícalo.
+- Mantén una jerarquía clara.
+- Utiliza títulos y subtítulos cuando sea necesario.
+- Utiliza listas cuando exista información repetitiva.
+- Conserva enlaces a fuentes o recursos relevantes cuando corresponda.
+- Prioriza fuentes confiables.
+- No agregues diseño.
+- No agregues CSS.
+- No agregues JavaScript.
+- Entrega el resultado en formato Markdown.
+
+# 2
+
+Quiero construir un documento digital sobre:
+
+**[CG5 y su trayectoria en la comunidad del internet.]**
+
+Necesito organizar información sobre:
+
+**[Su trayectoria como cantautor y en como las tendencias a traves de los años lo inspiraban a componer nuevas canciones con base a temas virales en la historia para gente nueva y los fans que busquen conocer mas de su proceso creativo en la industria de la musica y el internet.]**
+
+Antes de generar HTML, investiga y estructura la información.
+
+## Objetivo
+
+Construye un documento de información estructurada que pueda utilizarse
+posteriormente para generar una página web.
+
+## Estructura
+
+Cada elemento debe incluir los siguientes campos:
+
+- * Año en el que hubo una tendencia viral en internet
+- * Tendencia viral que destacaba en el momento
+- * Breve descripción de dicha tendencia.
+- * Portada del álbum o canción que mida mínimo 1024 px de ancho. 
+- * Titulo de la canción creada por CG5 con base a esta tendencia. artistas colaboradores si es el caso, ademas de una breve descripción de su inspiración.
+
+
+Todos los elementos deben mantener exactamente la misma estructura.
+
+## Reglas
+
+- Organiza la información de manera consistente.
+- No inventes datos.
+- Si un dato no está disponible, indícalo.
+- Mantén una jerarquía clara.
+- Utiliza títulos y subtítulos cuando sea necesario.
+- Utiliza listas cuando exista información repetitiva.
+- Conserva enlaces a fuentes o recursos relevantes cuando corresponda.
+- Prioriza fuentes confiables.
+- No agregues diseño.
+- No agregues CSS.
+- No agregues JavaScript.
+- Entrega el resultado en formato Markdown.
+
+# 3
+
+Quiero construir un documento digital sobre:
+
+**[CG5 y su trayectoria en la comunidad del internet.]**
+
+Necesito organizar información sobre:
+
+**[Las tendencias que han ocurrido a lo largo de la historia desde el inicio de su carrera musical y la forma en la que estas lo han inspirado para crear hits musicales a lo largo de los años.]**
+
+Antes de generar HTML, investiga y estructura la información.
+
+## Objetivo
+
+Construye un documento de información estructurada que pueda utilizarse
+posteriormente para generar una página web.
+
+## Estructura
+
+Cada elemento debe incluir los siguientes campos:
+
+- * Año en el que hubo una tendencia viral en internet y una imagen que identifique a dicha tendencia.
+- * Tendencia viral que destacaba en el momento
+- * Breve descripción de dicha tendencia.
+- * Portada del álbum o canción que mida mínimo 1024 px de ancho. Y en un formato cuadrado para mejor adaptación. 
+- * Titulo de la canción creada por CG5 con base a esta tendencia. artistas colaboradores si es el caso, ademas de una breve descripción de su inspiración. En caso de tener múltiples canciones, destacar la más escuchada  de estas.
+
+
+Todos los elementos deben mantener exactamente la misma estructura.
+
+## Reglas
+
+- Organiza la información de manera consistente.
+- No inventes datos.
+- Si un dato no está disponible, indícalo.
+- Mantén una jerarquía clara.
+- Utiliza títulos y subtítulos cuando sea necesario.
+- Utiliza listas cuando exista información repetitiva.
+- Conserva enlaces a fuentes o recursos relevantes cuando corresponda.
+- Prioriza fuentes confiables.
+- No agregues diseño.
+- No agregues CSS.
+- No agregues JavaScript.
+- Entrega el resultado en formato Markdown.
+
+# 4
+
+Quiero construir un documento digital sobre:
+
+**[CG5 y su trayectoria en la comunidad del internet.]**
+
+Necesito organizar información sobre:
+
+**[Las tendencias que han ocurrido a lo largo de la historia desde el inicio de su carrera musical y la forma en la que estas lo han inspirado para crear hits musicales a lo largo de los años. Es decir desde el 2014 en adelante hasta el presente en orden cronológico.]**
+
+Antes de generar HTML, investiga y estructura la información.
+
+## Objetivo
+
+Construye un documento de información estructurada que pueda utilizarse
+posteriormente para generar una página web.
+
+## Estructura
+
+Cada elemento debe incluir los siguientes campos:
+
+- * Año en el que hubo una tendencia viral en internet y una imagen que identifique a dicha tendencia.
+- * Tendencia viral que destacaba en el momento
+- * Breve descripción de dicha tendencia.
+- * Portada del álbum o canción que mida mínimo 1024 px de ancho. Y en un formato cuadrado para mejor adaptación. 
+- * Titulo de la canción creada por CG5 con base a esta tendencia. artistas colaboradores si es el caso, ademas de una breve descripción de su inspiración. En caso de tener múltiples canciones, destacar la más escuchada  de estas.
+
+
+Todos los elementos deben mantener exactamente la misma estructura.
+
+## Reglas
+
+- Organiza la información de manera consistente.
+- No inventes datos.
+- Si un dato no está disponible, indícalo.
+- Mantén una jerarquía clara.
+- Utiliza títulos y subtítulos cuando sea necesario.
+- Utiliza listas cuando exista información repetitiva.
+- Conserva enlaces a fuentes o recursos relevantes cuando corresponda.
+- Prioriza fuentes confiables.
+- No agregues diseño.
+- No agregues CSS.
+- No agregues JavaScript.
+- Entrega el resultado en formato Markdown.
+
+# 5 
+
+Quiero construir un documento digital sobre:
+
+**[CG5 y su trayectoria en la comunidad del internet.]**
+
+Necesito organizar información sobre:
+
+**[Las tendencias que han ocurrido a lo largo de la historia desde el inicio de su carrera musical y la forma en la que estas lo han inspirado para crear hits musicales a lo largo de los años. Es decir desde el 2017 en adelante hasta el presente en orden cronológico.]**
+
+Antes de generar HTML, investiga y estructura la información.
+
+## Objetivo
+
+Construye un documento de información estructurada que pueda utilizarse
+posteriormente para generar una página web.
+
+## Estructura
+
+Cada elemento debe incluir los siguientes campos:
+
+- * Año en el que hubo una tendencia viral en internet y una imagen que identifique a dicha tendencia.
+- * Tendencia viral que destacaba en el momento
+- * Breve descripción de dicha tendencia.
+- * Portada del álbum o canción que mida mínimo 1024 px de ancho. Y en un formato cuadrado para mejor adaptación. 
+- * Titulo de la canción creada por CG5 con base a esta tendencia. artistas colaboradores si es el caso, ademas de una breve descripción de su inspiración. En caso de tener múltiples canciones, destacar la más escuchada  de estas.
+
+
+Todos los elementos deben mantener exactamente la misma estructura.
+
+## Reglas
+
+- Organiza la información de manera consistente.
+- No inventes datos.
+- Si un dato no está disponible, indícalo.
+- Mantén una jerarquía clara.
+- Utiliza títulos y subtítulos cuando sea necesario.
+- Utiliza listas cuando exista información repetitiva.
+- Conserva enlaces a fuentes o recursos relevantes cuando corresponda.
+- Prioriza fuentes confiables.
+- No agregues diseño.
+- No agregues CSS.
+- No agregues JavaScript.
+- Entrega el resultado en formato Markdown.
+
+# 6
+
+Quiero construir un documento digital sobre:
+
+**[CG5 y su trayectoria en la comunidad del internet.]**
+
+Necesito organizar información sobre:
+
+**[Las tendencias que han ocurrido a lo largo de la historia desde el inicio de su carrera musical y la forma en la que estas lo han inspirado para crear hits musicales a lo largo de los años. Es decir desde el 2017 en adelante hasta el presente en orden cronológico.]**
+
+Antes de generar HTML, investiga y estructura la información.
+
+## Objetivo
+
+Construye un documento de información estructurada que pueda utilizarse
+posteriormente para generar una página web.
+
+## Estructura
+
+Cada elemento debe incluir los siguientes campos:
+
+- * Año en el que hubo una tendencia viral en internet y una imagen que identifique a dicha tendencia.
+- * Tendencia viral que destacaba en el momento
+- * Breve descripción de dicha tendencia.
+- * Portada del álbum o canción que mida mínimo 1024 px de ancho. Y en un formato cuadrado para mejor adaptación. 
+- * Titulo de la canción creada por CG5 con base a esta tendencia. artistas colaboradores si es el caso, ademas de una breve descripción de su inspiración. En caso de tener múltiples canciones, destacar la más escuchada  de estas.
+
 
 Todos los elementos deben mantener exactamente la misma estructura.
 
