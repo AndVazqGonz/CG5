@@ -57,12 +57,12 @@ La **intención de comunicación** es la idea que dirige el documento. No es sol
 
 Debe definir:
 
-- **Tema:** de qué trata.
-- **Enfoque:** desde qué perspectiva se aborda.
-- **Propósito:** para qué existe.
-- **Audiencia:** para quién se construye.
-- **Transformación:** qué debería comprender, sentir, cuestionar o hacer el usuario.
-- **Tono:** qué actitud tendrá la comunicación.
+- **Tema:** de qué trata: CG5 y su trayectoria en la comunidad del internet.
+- **Enfoque:** desde qué perspectiva se aborda: Aborda la perspectiva de las tendencias y la forma en como se conectan con el artista a través de sus creaciones musicales.
+- **Propósito:** para qué existe: Para poder mostrar que la música puede salir de cualquier tema.
+- **Audiencia:** para quién se construye: Artistas o gente de redes sociales en caso de el interes por cada tendencia.
+- **Transformación:** qué debería comprender, sentir, cuestionar o hacer el usuario: Interés curiosidad.
+- **Tono:** qué actitud tendrá la comunicación: Formal pero agradable para el usuario..
 
 La intención permite decidir qué información pertenece al proyecto y cuál debe quedar fuera. También orienta la jerarquía, el lenguaje y las relaciones que deberán hacerse visibles.
 
@@ -78,9 +78,9 @@ Todo tema forma parte de un universo más amplio. Intentar comunicarlo por compl
 
 - qué aspecto se investigará;
 - qué periodo, contexto o categoría se incluirá;
-- qué preguntas busca responder;
-- qué nivel de profundidad tendrá;
-- qué contenido queda fuera.
+- qué preguntas busca responder: ¿De que tendencias se inspiro el artista? ¿Cual fue su impacto como artista dentro de la comunidad del internet?;
+- qué nivel de profundidad tendrá: Por el momento sera superficial que abarca el tema y el producto de inspiracion.;
+- qué contenido queda fuera: Información acerca de su vida como artista, relaciones personales, nacimiento.
 
 Delimitar no empobrece la información. Le proporciona dirección y permite investigar con mayor profundidad.
 
