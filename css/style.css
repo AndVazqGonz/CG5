@@ -14,7 +14,7 @@
   --font--title: "industry", sans-serif;
   --font--body: 'Press Start 2P', system-ui;
 
-  --font-family-base: system-ui, Arial, Helvetica, sans-serif;
+  --font-family-base: system-ui, sans-serif;
 
   --font-size-body: 1rem;
   --font-size-h1: 3rem;
@@ -47,9 +47,8 @@ body {
 
   background-color: var(--color-background);
   color: var(--color-text);
-
-  font-family: var(--font-family-base);
-  font-size: var(--font-body);
+  font-family: var(--font-body);
+  font-size: var(--font-size-body);
 }
 
 header {
@@ -70,19 +69,26 @@ header p {
   CSS controla su representación visual.
 */
 
-h1 {
-  font-size: var(--font--title);
+h1{
+  font-family: var(--font--title);
+  font-size:var(--font-size-h1);
+  font-weight:normal;
   margin: 0;
   padding: 0;
 }
-
-h2 {
-  font-size: var(--font--title);
+h2{
+  font-family: var(--font--title);
+  font-size: var(--font-size-h2);
+  font-weight: normal;
+  margin: 0;
+  padding: 0;
 }
-
-h3 {
-  font-size: var(--font--title);
-}
+ h3 {
+  font-family: var(--font--title);
+  font-size: var(--font-size-h3);
+  font-weight: normal;
+  margin: 0;
+  padding: 0;
 
 
 /*
