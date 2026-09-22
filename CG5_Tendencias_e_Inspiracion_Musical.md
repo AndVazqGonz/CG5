@@ -216,7 +216,7 @@ Documento de información estructurada sobre la historia musical de Charlie Gree
 
 
 * **Canción Destacada de CG5:**
-* **Título:** "Left Behind" / "Make Your Move"
+* **Título:** "Make Your Move"
 * **Artistas colaboradores:** Dawko (en "Make Your Move")
 * **Descripción de la inspiración:** Inspirándose en los animatrónicos y la historia detrás de los personajes atrapados en las pizzerías del juego, CG5 adaptó potentes sintetizadores y melodías oscuras para sonorizar los videos animados de la comunidad.
 
