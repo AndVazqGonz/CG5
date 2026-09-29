@@ -1,6 +1,5 @@
 # Documento de Información Estructurada (HTML / Markdown)
 
-```html
 <!DOCTYPE html>
 <html lang="es">
 <head>
@@ -85,7 +84,7 @@
           <figcaption>BALDI'S BASICS SONG "Every Door" (feat. Caleb Hyles) [SFM] | CG5</figcaption>
         </figure>
         <h3>Every Door - feat. Caleb Hyles</h3>
-        <p>Inspirado en la tensión constante de huir del personaje Baldi dentro de la escuela digital</p>
+        <p>Inspirado en la tensión constante de huir del personaje Baldi dentro de la escuela digital mientras resuelves promátemáticas</p>
         <p><a href="https://www.youtube.com/watch?v=mYI2iA32vYc" target="_blank" rel="noopener noreferrer">Watch on YouTube</a></p>
       </section>
     </article>
@@ -305,4 +304,3 @@
 
 </body>
 </html>
-```
