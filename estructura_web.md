@@ -1,0 +1,308 @@
+# Documento de Información Estructurada (HTML / Markdown)
+
+```html
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <title>Tendencias a éxitos musicales - CG5</title>
+</head>
+<body>
+
+  <!-- Página 1: Inicio / Portada -->
+  <header id="welcome">
+    <h1>Tendencias a éxitos musicales</h1>
+    <h2>CG5</h2>
+    <p>El pasaje de las tendencias a éxitos musicales en los años del mundo social y las tendencias.</p>
+    <nav>
+      <ul>
+        <li><a href="#welcome">Welcome</a></li>
+        <li><a href="#about">About</a></li>
+      </ul>
+    </nav>
+  </header>
+
+  <main>
+
+    <!-- Página 2: Menú de Tendencias por Año -->
+    <section id="mundo-de-tendencias">
+      <h2>Mundo de tendencias</h2>
+      <ul>
+        <li><a href="#year-2017">2017: From 12 to 6.</a></li>
+        <li><a href="#year-2018">2018: A shiny quarter!</a></li>
+        <li><a href="#year-2019">2019: Five more shifts</a></li>
+        <li><a href="#year-2020">2020: Where?</a></li>
+        <li><a href="#year-2021">2021: SMP</a></li>
+        <li><a href="#year-2022">2022: Ohio?</a></li>
+        <li><a href="#year-2023">2023: Happy birthday!</a></li>
+        <li><a href="#year-2024">2024: "What's the time?"</a></li>
+        <li><a href="#year-2025">2025: Welcome!</a></li>
+      </ul>
+    </section>
+
+    <!-- Página 3: 2017 -->
+    <article id="year-2017">
+      <h2>2017: From 12 to 6.</h2>
+      
+      <section>
+        <figure>
+          <img src="https://i.ytimg.com/vi/l18A5cGqzCQ/maxresdefault.jpg" alt="Five Nights at Freddy's">
+          <figcaption>Five Nights at Freddy's</figcaption>
+        </figure>
+        <p>Fenómeno de horror indie que generaba jumpscares virales, memes y reacciones exageradas en YouTube. Creado por Scott Cawthon.</p>
+      </section>
+
+      <section>
+        <figure>
+          <a href="https://www.youtube.com/watch?v=A8fIix3s_ag" target="_blank" rel="noopener noreferrer">
+            <img src="https://img.youtube.com/vi/A8fIix3s_ag/hqdefault.jpg" alt="FNAF 4 REMIX - The Living Tombstone - I Got No Time [SFM] | CG5">
+          </a>
+          <figcaption>FNAF 4 REMIX The Living Tombstone - I Got No Time [SFM] | CG5</figcaption>
+        </figure>
+        <h3>I Got No Time (Remix)</h3>
+        <p>Remix/versión de CG5 del tema original de The Living Thombstone</p>
+        <p><a href="https://www.youtube.com/watch?v=A8fIix3s_ag" target="_blank" rel="noopener noreferrer">Watch on YouTube</a></p>
+      </section>
+    </article>
+
+    <!-- Página 4: 2018 -->
+    <article id="year-2018">
+      <h2>2018: A shiny quarter!</h2>
+      
+      <section>
+        <figure>
+          <img src="https://i.kym-cdn.com/entries/icons/original/000/026/222/cover.jpg" alt="Baldi's Basics in Education and Learning">
+          <figcaption>Baldi SBASICS in Education and Learning - Don't forget FUN! YUM HISTORICALITY</figcaption>
+        </figure>
+        <p>Baldi's Basics in Education and Learning. Videojuego independeinte de terror, inspirado en la educación y el estilo retro 90.</p>
+      </section>
+
+      <section>
+        <figure>
+          <a href="https://www.youtube.com/watch?v=mYI2iA32vYc" target="_blank" rel="noopener noreferrer">
+            <img src="https://img.youtube.com/vi/mYI2iA32vYc/hqdefault.jpg" alt="BALDI'S BASICS SONG Every Door (feat. Caleb Hyles) [SFM] | CG5">
+          </a>
+          <figcaption>BALDI'S BASICS SONG "Every Door" (feat. Caleb Hyles) [SFM] | CG5</figcaption>
+        </figure>
+        <h3>Every Door - feat. Caleb Hyles</h3>
+        <p>Inspirado en la tensión constante de huir del personaje Baldi dentro de la escuela digital</p>
+        <p><a href="https://www.youtube.com/watch?v=mYI2iA32vYc" target="_blank" rel="noopener noreferrer">Watch on YouTube</a></p>
+      </section>
+    </article>
+
+    <!-- Página 5: 2019 -->
+    <article id="year-2019">
+      <h2>2019: Five more shifts</h2>
+      
+      <section>
+        <figure>
+          <img src="https://images.ctfassets.net/p03816281a0e/5qYd5A314Jc7V8K9xO71lK/b87a9e048db4b8efc8f3957f893a746a/FNaF_VR_Help_Wanted.jpg" alt="Five Nights at Freddy's HELP WANTED">
+          <figcaption>Five Nights at Freddy's HELP WANTED</figcaption>
+        </figure>
+        <p>La comunidad de animación continuó expandiendo el folclore de Five Nights at Freddy's, creando videos animados cinematográficos de alta calidad mientras más juegos eran lanzados al público. Entre esas el juego en realidad virtual (Help Wanted)</p>
+      </section>
+
+      <section>
+        <figure>
+          <a href="https://www.youtube.com/watch?v=C3T_tB3E1p8" target="_blank" rel="noopener noreferrer">
+            <img src="https://img.youtube.com/vi/C3T_tB3E1p8/hqdefault.jpg" alt="FNAF ULTIMATE CUSTOM NIGHT SONG (Make Your Move) LYRIC VIDEO - Dawko & CG5">
+          </a>
+          <figcaption>FNAF ULTIMATE CUSTOM NIGHT SONG (Make Your Move) LYRIC VIDEO - Dawko & CG5</figcaption>
+        </figure>
+        <h3>Make Your Move - feat. Dawko</h3>
+        <p>Inspirándose en los animatrónicos y la historia detrás de los personajes atrapados en las pizzerías del juego</p>
+        <p><a href="https://www.youtube.com/watch?v=C3T_tB3E1p8" target="_blank" rel="noopener noreferrer">Watch on YouTube</a></p>
+      </section>
+    </article>
+
+    <!-- Página 6: 2020 -->
+    <article id="year-2020">
+      <h2>2020: Where?</h2>
+      
+      <section>
+        <figure>
+          <img src="https://cdn1.epicgames.com/salesBuilding/salesBuilding/EGS_AmongUs_Innersloth_S1_2560x1440-a19213565578efb22a07c13a04e578c9" alt="AMONG US">
+          <figcaption>AMONG US</figcaption>
+        </figure>
+        <p>Among Us explotó durante la pandemia de COVID-19. El juego de deducción social generó clips virales, streamings masivos y memes ("sus").</p>
+      </section>
+
+      <section>
+        <figure>
+          <a href="https://www.youtube.com/watch?v=w9M34QyUuB8" target="_blank" rel="noopener noreferrer">
+            <img src="https://img.youtube.com/vi/w9M34QyUuB8/hqdefault.jpg" alt="Show Yourself - Among Us Song">
+          </a>
+          <figcaption>Show Yourself - Among Us Song</figcaption>
+        </figure>
+        <h3>Show Yourself - Single</h3>
+        <p>Narra la experiencia del juego con énfasis en la tensión de identificar al impostor</p>
+        <p><a href="https://www.youtube.com/watch?v=w9M34QyUuB8" target="_blank" rel="noopener noreferrer">Watch on YouTube</a></p>
+      </section>
+    </article>
+
+    <!-- Página 7: 2021 -->
+    <article id="year-2021">
+      <h2>2021: SMP</h2>
+      
+      <section>
+        <figure>
+          <img src="https://wikis.gg/thumb.php?f=Dream_SMP_Logo.png&width=800" alt="DREAM SMP">
+          <figcaption>DREAM SMP</figcaption>
+        </figure>
+        <p>La serie de contenido Dream Minecraft Manhunt y el servidor de rol Dream SMP redefinieron el entretenimiento en Twitch y YouTube.</p>
+      </section>
+
+      <section>
+        <figure>
+          <a href="https://www.youtube.com/watch?v=mD0kY8S3l_I" target="_blank" rel="noopener noreferrer">
+            <img src="https://img.youtube.com/vi/mD0kY8S3l_I/hqdefault.jpg" alt="CG5 - I See a Dreamer (Dream Team Original Song)">
+          </a>
+          <figcaption>CG5 - I See a Dreamer (Dream Team Original Song)</figcaption>
+        </figure>
+        <h3>I See A Dreamer - Single</h3>
+        <p>Profundamente vinculada a la comunidad de fanáticos del streamer Dream y el servidor Dream SMP.</p>
+        <p><a href="https://www.youtube.com/watch?v=mD0kY8S3l_I" target="_blank" rel="noopener noreferrer">Watch on YouTube</a></p>
+      </section>
+    </article>
+
+    <!-- Página 8: 2022 -->
+    <article id="year-2022">
+      <h2>2022: Ohio?</h2>
+      
+      <section>
+        <figure>
+          <img src="https://i.kym-cdn.com/entries/icons/original/000/042/155/ohiochicken.jpg" alt="Ohio chicken">
+          <figcaption>Ohio chicken 💀</figcaption>
+        </figure>
+        <p>El meme de "Ohio" consistía en presentar dicho estado de EE. UU. como un lugar distópico y lleno de anomalías surrealistas mediante videos cortos en TikTok y YouTube Shorts.</p>
+      </section>
+
+      <section>
+        <figure>
+          <a href="https://www.youtube.com/watch?v=T_7_S8S7W8k" target="_blank" rel="noopener noreferrer">
+            <img src="https://img.youtube.com/vi/T_7_S8S7W8k/hqdefault.jpg" alt="CG5 - Only in Ohio (Original Song)">
+          </a>
+          <figcaption>CG5 - Only in Ohio (Original Song)</figcaption>
+        </figure>
+        <h3>Only In Ohio - Single</h3>
+        <p>Aprovechó la rápidez de los memes de TikTok que se propagaban para escribir una pista centrada en el caos surrealista atribuido al estado de Ohio.</p>
+        <p><a href="https://www.youtube.com/watch?v=T_7_S8S7W8k" target="_blank" rel="noopener noreferrer">Watch on YouTube</a></p>
+      </section>
+    </article>
+
+    <!-- Página 9: 2023 -->
+    <article id="year-2023">
+      <h2>2023: Happy birthday!</h2>
+      
+      <section>
+        <figure>
+          <img src="https://images.mcdonalds.com/is/image/mcdonalds/GrimaceShake_3000x3000" alt="GRIMACE SHAKE">
+          <figcaption>GRIMACE SHAKE M</figcaption>
+        </figure>
+        <p>Durante el verano, la tendencia de fingir efectos de terror paranormal tras beber la malteada Morada de McDonald's (Grimace Shake) dominó Tik Tok</p>
+      </section>
+
+      <section>
+        <figure>
+          <a href="https://www.youtube.com/watch?v=Gk3d2A_Jk2k" target="_blank" rel="noopener noreferrer">
+            <img src="https://img.youtube.com/vi/Gk3d2A_Jk2k/hqdefault.jpg" alt="CG5 - GRIMACE (Original Song)">
+          </a>
+          <figcaption>CG5 - GRIMACE (Original Song)</figcaption>
+        </figure>
+        <h3>Grimace Shake - feat. DHeusta & Djsmell</h3>
+        <p>Tomando como base los videos virales donde la gente actuaba posesiones o trágicos finales tras beber la malteada.</p>
+        <p><a href="https://www.youtube.com/watch?v=Gk3d2A_Jk2k" target="_blank" rel="noopener noreferrer">Watch on YouTube</a></p>
+      </section>
+    </article>
+
+    <!-- Página 10: 2024 -->
+    <article id="year-2024">
+      <h2>2024: "What's the time?"</h2>
+      
+      <section>
+        <figure>
+          <img src="https://i.kym-cdn.com/entries/icons/original/000/038/713/poppyplaytime.jpg" alt="POPPY PLAYTIME">
+          <figcaption>POPPY PLAYTIME</figcaption>
+        </figure>
+        <p>El lanzamiento del tercer capítulo del videojuego de terror Poppy Playtime introdujo al villano CatNap y la historia detrás de la jugabilidad.</p>
+      </section>
+
+      <section>
+        <figure>
+          <a href="https://www.youtube.com/watch?v=3K04183M_1E" target="_blank" rel="noopener noreferrer">
+            <img src="https://img.youtube.com/vi/3K04183M_1E/hqdefault.jpg" alt="CG5 - Sleep Well (from Poppy Playtime: Chapter 3)">
+          </a>
+          <figcaption>CG5 - Sleep Well (from Poppy Playtime: Chapter 3)</figcaption>
+        </figure>
+        <h3>Sleep Well - (from Poppy Playtime: Chapter 3)</h3>
+        <p>Basado en la historia trágica y sombría de CatNap y los huérfanos del juego.</p>
+        <p><a href="https://www.youtube.com/watch?v=3K04183M_1E" target="_blank" rel="noopener noreferrer">Watch on YouTube</a></p>
+      </section>
+    </article>
+
+    <!-- Página 11: 2025 -->
+    <article id="year-2025">
+      <h2>2025: Welcome!</h2>
+      
+      <section>
+        <figure>
+          <img src="https://upload.wikimedia.org/wikipedia/commons/4/4c/The_Amazing_Digital_Circus_Logo.jpg" alt="THE AMAZING DIGITAL CIRCUS">
+          <figcaption>THE AMAZING DIGITAL CIRCUS TM</figcaption>
+        </figure>
+        <p>La consolidación de la animación independiente en YouTube generó universos narrativos complejos que mantuvieron cautiva a la audiencia joven global durante 2025.</p>
+      </section>
+
+      <section>
+        <figure>
+          <a href="https://www.youtube.com/watch?v=0_0S0S0S0S0" target="_blank" rel="noopener noreferrer">
+            <img src="https://img.youtube.com/vi/0_0S0S0S0S0/hqdefault.jpg" alt="CG5 - GOT IT MAID [JAX] (The Amazing Digital Circus Song Animation) w/ @Glitch">
+          </a>
+          <figcaption>CG5 - GOT IT MAID [JAX] (The Amazing Digital Circus Song Animation) w/ @Glitch</figcaption>
+        </figure>
+        <h3>GOT IT MAID - (from The Amazing Digital Circus)</h3>
+        <p>Inspirado en los nuevos episodios y misterios expuestos en las series de animación web de la época</p>
+        <p><a href="https://www.youtube.com/watch?v=0_0S0S0S0S0" target="_blank" rel="noopener noreferrer">Watch on YouTube</a></p>
+      </section>
+    </article>
+
+    <!-- Página 12: 2026 -->
+    <article id="year-2026">
+      <h2>2026: VTuber</h2>
+      
+      <section>
+        <figure>
+          <img src="https://vshojo.com/assets/vtubers_banner.jpg" alt="VTuber">
+          <figcaption>VTuber 69</figcaption>
+        </figure>
+        <p>las personalidades virtuales (VTubers) y la estética del mundo gamer han establecido su presencia permanente en la cultura de masas de internet.</p>
+      </section>
+
+      <section>
+        <figure>
+          <a href="https://www.youtube.com/watch?v=0_1S1S1S1S1" target="_blank" rel="noopener noreferrer">
+            <img src="https://img.youtube.com/vi/0_1S1S1S1S1/hqdefault.jpg" alt="CG5 x Ironmouse - GO GO GO (Official Music Video)">
+          </a>
+          <figcaption>CG5 x Ironmouse - GO GO GO (Official Music Video)</figcaption>
+        </figure>
+        <h3>GO GO GO! - feat. Ironmouse</h3>
+        <p>Basado en la historia trágica y sombría de CatNap y los huérfanos del juego.</p>
+        <p><a href="https://www.youtube.com/watch?v=0_1S1S1S1S1" target="_blank" rel="noopener noreferrer">Watch on YouTube</a></p>
+      </section>
+    </article>
+
+    <!-- Página 13: About -->
+    <article id="about">
+      <h2>About CG5</h2>
+      <figure>
+        <img src="https://upload.wikimedia.org/wikipedia/commons/CG5_Portrait.jpg" alt="CG5 Portrait">
+      </figure>
+      <p>Cantautor inglés que cuenta con autismo y Trastorno Obsesivo Compulsivo (TOC)</p>
+      <p>Nacido el 10 de mayo de 1999 en Phoenix, Arizona.</p>
+      <p>Gracias a su gran hiperfijación ha logrado componer grandes piezas musicales inspiradas de las tendencias. Poniendolo en una posición muy alta dentro de la comunidad de la red</p>
+    </article>
+
+  </main>
+
+</body>
+</html>
+```
