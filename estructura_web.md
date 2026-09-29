@@ -13,7 +13,7 @@
   <header id="welcome">
     <h1>Tendencias a éxitos musicales</h1>
     <h2>CG5</h2>
-    <p>El pasaje de las tendencias a éxitos musicales en los años del mundo social y las tendencias.</p>
+    <p>El pasaje sus éxitos musicales en los años de las tendencias y el mundo del internet</p>
     <nav>
       <ul>
         <li><a href="#welcome">Welcome</a></li>
