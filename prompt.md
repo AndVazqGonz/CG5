@@ -288,6 +288,28 @@ Todos los elementos deben mantener exactamente la misma estructura.
 - No agregues JavaScript.
 - Entrega el resultado en formato Markdown.
 
+# 7
+
+Quiero construir un documento digital de formato  HTML y Markdown con base al documento de texto que te pasaré.
+
+Construye un documento de información estructurada que pueda utilizarse posteriormente para generar una página web.
+
+Cada elemento debe de mantener sus respectivas marcas y etiquetas dentro del lenguaje HTML, considerando imágenes, y videos colocados De Fuentes exteriores por medio de sus links de origen.
+
+Todos los elementos deben mantener exactamente la misma estructura.
+
+Organiza la información de manera consistente.
+* No inventes información.
+* No modifiques la estructura principal que existe.
+* Mantén una jerarquía clara.
+* Considera la conexión que existe en los links para dirigir a otras áreas en especifico, indicadas por las diferentes diapositivas..
+* Conserva enlaces a fuentes o recursos relevantes cuando corresponda.
+* Prioriza la estructura e información.
+* No agregues diseño.
+* No agregues CSS.
+* No agregues JavaScript.
+* Entrega el resultado en formato Markdown. 
+
 ---
 
 # Addon 01 · Orden y jerarquía
@@ -400,3 +422,5 @@ La IA ayuda a procesar y transformar información.
 
 La estructura y las decisiones del proyecto siguen siendo responsabilidad
 de quien diseña.
+
+
